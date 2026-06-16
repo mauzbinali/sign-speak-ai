@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/50b537df-5fcc-4ef2-9fc6-734b877a2fa7
+
+
+
 # Sign Speak AI
 
 Sign Speak AI is a Flutter Android app for real-time sign recognition, hand
